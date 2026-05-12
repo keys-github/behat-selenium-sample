@@ -1,4 +1,4 @@
-# Run Selenium Tests With Behat — TestMu AI (Formerly LambdaTest)
+# Run Selenium Tests With Behat — TestMu AI (Formerly LambdaTest)
 
 ![image](https://user-images.githubusercontent.com/70570645/171988795-ed884ca8-f431-48b3-afcc-91a014fd5059.png)
 
